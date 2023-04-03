@@ -1,0 +1,13 @@
+C:\Users\kolom\source\repos\KolomiichukFileUploadAzureStorage\KolomiichukFileUploadAzureStorage\obj\Release\net7.0\PubTmp\Out\KolomiichukFileUploadAzureStorage.exe
+C:\Users\kolom\source\repos\KolomiichukFileUploadAzureStorage\KolomiichukFileUploadAzureStorage\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\kolom\source\repos\KolomiichukFileUploadAzureStorage\KolomiichukFileUploadAzureStorage\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\kolom\source\repos\KolomiichukFileUploadAzureStorage\KolomiichukFileUploadAzureStorage\obj\Release\net7.0\PubTmp\Out\KolomiichukFileUploadAzureStorage.dll
+C:\Users\kolom\source\repos\KolomiichukFileUploadAzureStorage\KolomiichukFileUploadAzureStorage\obj\Release\net7.0\PubTmp\Out\KolomiichukFileUploadAzureStorage.deps.json
+C:\Users\kolom\source\repos\KolomiichukFileUploadAzureStorage\KolomiichukFileUploadAzureStorage\obj\Release\net7.0\PubTmp\Out\KolomiichukFileUploadAzureStorage.runtimeconfig.json
+C:\Users\kolom\source\repos\KolomiichukFileUploadAzureStorage\KolomiichukFileUploadAzureStorage\obj\Release\net7.0\PubTmp\Out\KolomiichukFileUploadAzureStorage.pdb
+C:\Users\kolom\source\repos\KolomiichukFileUploadAzureStorage\KolomiichukFileUploadAzureStorage\obj\Release\net7.0\PubTmp\Out\Azure.Core.dll
+C:\Users\kolom\source\repos\KolomiichukFileUploadAzureStorage\KolomiichukFileUploadAzureStorage\obj\Release\net7.0\PubTmp\Out\Azure.Storage.Blobs.dll
+C:\Users\kolom\source\repos\KolomiichukFileUploadAzureStorage\KolomiichukFileUploadAzureStorage\obj\Release\net7.0\PubTmp\Out\Azure.Storage.Common.dll
+C:\Users\kolom\source\repos\KolomiichukFileUploadAzureStorage\KolomiichukFileUploadAzureStorage\obj\Release\net7.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kolom\source\repos\KolomiichukFileUploadAzureStorage\KolomiichukFileUploadAzureStorage\obj\Release\net7.0\PubTmp\Out\System.IO.Hashing.dll
+C:\Users\kolom\source\repos\KolomiichukFileUploadAzureStorage\KolomiichukFileUploadAzureStorage\obj\Release\net7.0\PubTmp\Out\System.Memory.Data.dll
